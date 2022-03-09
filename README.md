@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sopulipu
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Dart and Python.
 
 <!---
 sopulipu/sopulipu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
